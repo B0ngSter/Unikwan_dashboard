@@ -7,7 +7,7 @@
           <v-img src="https://images-na.ssl-images-amazon.com/images/I/81mmkDRHNSL._SX425_.jpg" height="170">
           <v-avatar size="99" class="ma-3">
                  <img
-                  src="~assets/aa.jpg"
+                  src="./me2.jpg"
                   alt="John"
                   >
           </v-avatar>
